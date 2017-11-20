@@ -1,0 +1,22 @@
+.cat-image {
+    width: 150px;
+    height: auto;
+}
+.social {
+    width: 62px;
+    height: 62px;
+    margin-right: 5px;
+}
+.work {
+    width: 274px;
+    height: auto;
+    float: left;
+    padding: 10px;
+}
+
+.work-right {
+    width: 274px;
+    height: auto;
+    float: right;
+    padding: 10px;
+}
