@@ -38,7 +38,7 @@ body {
     margin-bottom: 50px;
 }
 
-.panel-about-me {   /* Only did this because the container wasn't working for the about me panel */
+.panel-about-me {   /* *TEMP* Only did this because the container wasn't working for the about me panel */
     width: 96%;
     margin-left: 2%;
 }
