@@ -7,6 +7,9 @@
     height: 62px;
     margin-right: 12px;
 }
+.contact-social {
+    margin-right: 5px;
+}
 .work {
     width: 274px;
     height: auto;
@@ -23,4 +26,8 @@
 
 .row {
     margin-bottom: 30px;
+}
+
+.form-area {
+    margin-bottom: 50px;
 }
